@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://digilogos.github.io/sitemap.xml
